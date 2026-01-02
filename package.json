@@ -1,0 +1,20 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShamimHossain1/ForeverEcom-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShamimHossain1/ForeverEcom-Backend/issues"
+  },
+  "homepage": "https://github.com/ShamimHossain1/ForeverEcom-Backend#readme",
+  "description": ""
+}
