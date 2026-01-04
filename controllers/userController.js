@@ -6,6 +6,7 @@ const loginUser = async(req, res) => {
 // routes for user signup
 
 const registerUser = async(req, res) => { 
+    res.json({msg:"Register api working"})
 }
 
 // Route for admin login
@@ -13,4 +14,4 @@ const loginAdmin = async(req, res) => {
 }
 
 
-module.exports = { loginUser, registerUser, loginAdmin }    
+export { loginUser, registerUser, loginAdmin }    
